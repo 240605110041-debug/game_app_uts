@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "title": "Overwatch 2",
+    "category": "Shooter",
+    "releaseDate": "04 Oktober 2022",
+    "imageUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2357570/header.jpg",
+    "description": "Overwatch 2 adalah game aksi tim bebas dimainkan yang berlatar di masa depan yang cerah, di mana setiap pertandingan adalah pertarungan 5v5 pamungkas.",
+    "systemRequirements": {
+      "os": "Windows 10 64-bit",
+      "processor": "Intel Core i3 atau AMD Phenom X3 8650",
+      "memory": "6 GB RAM",
+      "graphics": "NVIDIA GeForce GTX 600 series",
+      "storage": "50 GB"
+    }
+  },
+  {
+    "id": "2",
+    "title": "Diablo Immortal",
+    "category": "MMOARPG",
+    "releaseDate": "02 Juni 2022",
+    "imageUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2281430/header.jpg",
+    "description": "Game MMOARPG terobosan dari Blizzard Entertainment yang menghubungkan cerita antara Diablo II dan Diablo III.",
+    "systemRequirements": {
+      "os": "Windows 10 / 11 64-bit",
+      "processor": "Intel Core i3 atau AMD FX-8100",
+      "memory": "4 GB RAM",
+      "graphics": "NVIDIA GeForce GTX 460",
+      "storage": "24 GB"
+    }
+  },
+  {
+    "id": "3",
+    "title": "Genshin Impact",
+    "category": "ARPG",
+    "releaseDate": "28 September 2020",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCn8cRgS16Pwlr-5dgrYI90JjxAsRa6YIeQWtXrhegUg&s=10",
+    "description": "Jelajahi dunia fantasi luas Teyvat dalam game RPG aksi dunia terbuka ini. Bertarung bersama teman dan temukan rahasia Teyvat.",
+    "systemRequirements": {
+      "os": "Windows 7 SP1 64-bit",
+      "processor": "Intel Core i7 or equivalent",
+      "memory": "16 GB RAM",
+      "graphics": "NVIDIA GeForce GTX 1060 6GB",
+      "storage": "30 GB"
+    }
+  },
+  {
+    "id": "4",
+    "title": "PUBG: BATTLEGROUNDS",
+    "category": "Shooter",
+    "releaseDate": "12 Januari 2022",
+    "imageUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/578080/header.jpg",
+    "description": "Mendarat di lokasi strategis, jarah senjata dan pasokan, lalu bertahan hidup untuk menjadi tim terakhir yang berdiri.",
+    "systemRequirements": {
+      "os": "Windows 10 64-bit",
+      "processor": "Intel Core i5-4430 / AMD FX-6300",
+      "memory": "8 GB RAM",
+      "graphics": "NVIDIA GeForce GTX 960 2GB",
+      "storage": "40 GB"
+    }
+  },
+  {
+    "id": "5",
+    "title": "Lost Ark",
+    "category": "ARPG",
+    "releaseDate": "11 Februari 2022",
+    "imageUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1599340/header.jpg",
+    "description": "Jelajahi dunia Arkesia yang luas dan dinamis dalam game Action RPG online yang membawa petualangan tanpa batas.",
+    "systemRequirements": {
+      "os": "Windows 10 64-bit",
+      "processor": "Intel i3 atau AMD Ryzen 3",
+      "memory": "8 GB RAM",
+      "graphics": "NVIDIA GeForce GTX 460",
+      "storage": "50 GB"
+    }
+  },
+  {
+    "id": "6",
+    "title": "Enlisted",
+    "category": "Shooter",
+    "releaseDate": "08 April 2021",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL3Sbliatlak2lusLAlpdjf5ZcYChULMWmSkHcp8Akzw&s=10",
+    "description": "Game MMO shooter berbasis skuad Perang Dunia II di mana kamu memimpin pasukan infanteri, kendaraan lapis baja, dan pesawat.",
+    "systemRequirements": {
+      "os": "Windows 7 / 8 / 10 64-bit",
+      "processor": "Intel Core i3",
+      "memory": "8 GB RAM",
+      "graphics": "NVIDIA GeForce GTX 660",
+      "storage": "30 GB"
+    }
+  },
+  {
+    "id": "7",
+    "title": "Forge of Empires",
+    "category": "Strategy",
+    "releaseDate": "17 April 2012",
+    "imageUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1549250/header.jpg",
+    "description": "Pimpin kota kamu melewati Zaman Batu hingga era masa depan dalam game strategi pembangunan peradaban ini.",
+    "systemRequirements": {
+      "os": "Windows 7 / 8 / 10",
+      "processor": "Intel Dual Core",
+      "memory": "2 GB RAM",
+      "graphics": "Graphics card with DX10 capabilities",
+      "storage": "2 GB"
+    }
+  }
+]
